@@ -12,6 +12,7 @@ What the package does (one paragraph).
 Useful links:
 \itemize{
   \item \url{https://github.com/JoleneSutton/practice}
+  \item \url{https://jolenesutton.github.io/practice/}
   \item Report bugs at \url{https://github.com/JoleneSutton/practice/issues}
 }
 
