@@ -12,6 +12,7 @@ knitr::opts_chunk$set(
   out.width = "100%"
 )
 ```
+# practice <a href="https://jolenesutton.github.io/practice/"><img src="man/figures/logo.gif" align="right" height="118" /></a>
 
 # practice
 

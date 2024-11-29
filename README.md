@@ -1,6 +1,8 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+# practice <a href="https://jolenesutton.github.io/practice/"><img src="man/figures/logo.gif" align="right" height="118" /></a>
+
 # practice
 
 <!-- badges: start -->
